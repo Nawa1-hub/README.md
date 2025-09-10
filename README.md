@@ -1,14 +1,14 @@
-## FULL NAMES 
+## FULL NAMES: 
 Nawa Sunkutu 
-## STUDENT NUMBER
+## STUDENT NUMBER: 
 2024070551 
-## AGE 
+## AGE: 
 31 
-## PROGRAM OF STUDY
+## PROGRAM OF STUDY: 
 Information and Communication Technology 
-## INTAKE 
+## INTAKE: 
 Jun24 
-## NRC NUMBER 
+## NRC NUMBER: 
 513974/67/1 
-## ACADEMIC YEAR 
+## ACADEMIC YEAR: 
 Second Year
